@@ -92,6 +92,9 @@
 
 #### 1918번 - 후위 표기식(https://www.acmicpc.net/problem/1918) (미해결)
 
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [스택](https://www.acmicpc.net/problem/tag/71)
+
 
 
 ## 2022.06.26
