@@ -130,3 +130,45 @@
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [분할 정복](https://www.acmicpc.net/problem/tag/24)
 - [재귀](https://www.acmicpc.net/problem/tag/62)
+
+
+
+#### 5639번 - 이진 검색 트리(https://www.acmicpc.net/problem/5639)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [재귀](https://www.acmicpc.net/problem/tag/62)
+
+
+
+#### 9465번 - 스티커(https://www.acmicpc.net/problem/9465)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 11725번 - 트리의 부모 찾기(https://www.acmicpc.net/problem/11725)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+
+
+
+#### 14938번 - 서강그라운드(https://www.acmicpc.net/problem/14938)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [데이크스트라](https://www.acmicpc.net/problem/tag/22)
+- [플로이드–워셜](https://www.acmicpc.net/problem/tag/31)
+
+
+
+#### 16953번 - A→B(https://www.acmicpc.net/problem/16953)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
