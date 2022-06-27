@@ -103,3 +103,30 @@
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [슬라이딩 윈도우](https://www.acmicpc.net/problem/tag/68)
+
+
+
+## 2022.06.27
+
+#### 2206번 - 벽 부수고 이동하기(https://www.acmicpc.net/problem/2263)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
+
+
+
+#### 2407번 - 조합(https://www.acmicpc.net/problem/2407)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [조합론](https://www.acmicpc.net/problem/tag/6)
+- [임의 정밀도 / 큰 수 연산](https://www.acmicpc.net/problem/tag/117)
+
+
+
+#### 2263번 - 트리의 순회(https://www.acmicpc.net/problem/2263) (미해결)
+
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [분할 정복](https://www.acmicpc.net/problem/tag/24)
+- [재귀](https://www.acmicpc.net/problem/tag/62)
