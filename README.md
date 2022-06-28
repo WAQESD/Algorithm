@@ -90,7 +90,7 @@
 
 ## 2022.06.25
 
-#### 1918번 - 후위 표기식(https://www.acmicpc.net/problem/1918) (미해결)
+#### 1918번 - 후위 표기식(https://www.acmicpc.net/problem/1918)
 
 - [자료 구조](https://www.acmicpc.net/problem/tag/175)
 - [스택](https://www.acmicpc.net/problem/tag/71)
@@ -125,7 +125,7 @@
 
 
 
-#### 2263번 - 트리의 순회(https://www.acmicpc.net/problem/2263) (미해결)
+#### 2263번 - 트리의 순회(https://www.acmicpc.net/problem/2263)
 
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [분할 정복](https://www.acmicpc.net/problem/tag/24)
@@ -172,3 +172,22 @@
 - [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
 - [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
 - [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
+
+
+
+## 2022.06.28
+
+#### 1202번 - 보석 도둑(https://www.acmicpc.net/problem/1202)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
+- [정렬](https://www.acmicpc.net/problem/tag/97)
+- [우선순위 큐](https://www.acmicpc.net/problem/tag/59)
+
+
+
+#### 9466번 - 텀 프로젝트(https://www.acmicpc.net/problem/9466)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
