@@ -191,3 +191,27 @@
 - [그래프 이론](https://www.acmicpc.net/problem/tag/7)
 - [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
 - [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+
+
+
+## 2022.06.29
+
+#### 1987번 - 알파벳(https://www.acmicpc.net/problem/1987)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+- [백트래킹](https://www.acmicpc.net/problem/tag/5)
+
+#### 2098번 - 외판원 순회(https://www.acmicpc.net/problem/2098)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [비트마스킹](https://www.acmicpc.net/problem/tag/14)
+- [비트필드를 이용한 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/87)
+- [외판원 순회 문제](https://www.acmicpc.net/problem/tag/138)
+
+#### 10775번 - 공항(https://www.acmicpc.net/problem/10775)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
+- [분리 집합](https://www.acmicpc.net/problem/tag/81)
