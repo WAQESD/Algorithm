@@ -203,6 +203,8 @@
 - [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
 - [백트래킹](https://www.acmicpc.net/problem/tag/5)
 
+
+
 #### 2098번 - 외판원 순회(https://www.acmicpc.net/problem/2098)
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
@@ -210,8 +212,40 @@
 - [비트필드를 이용한 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/87)
 - [외판원 순회 문제](https://www.acmicpc.net/problem/tag/138)
 
+
+
 #### 10775번 - 공항(https://www.acmicpc.net/problem/10775)
 
 - [자료 구조](https://www.acmicpc.net/problem/tag/175)
 - [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
 - [분리 집합](https://www.acmicpc.net/problem/tag/81)
+
+
+
+## 2022.06.30
+
+#### 1509번 - 팰린드롬 분할(https://www.acmicpc.net/problem/1509)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 2252번 - 줄 세우기(https://www.acmicpc.net/problem/2252)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [위상 정렬](https://www.acmicpc.net/problem/tag/78)
+
+
+
+#### 2342번 - Dance Dance Revolution(https://www.acmicpc.net/problem/2342)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 1766번 - 문제집(https://www.acmicpc.net/problem/1766)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [우선순위 큐](https://www.acmicpc.net/problem/tag/59)
+- [위상 정렬](https://www.acmicpc.net/problem/tag/78)
