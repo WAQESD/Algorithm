@@ -249,3 +249,37 @@
 - [자료 구조](https://www.acmicpc.net/problem/tag/175)
 - [우선순위 큐](https://www.acmicpc.net/problem/tag/59)
 - [위상 정렬](https://www.acmicpc.net/problem/tag/78)
+
+
+
+## 2022.07.01
+
+#### 1647번 - 도시 분할 계획(https://www.acmicpc.net/problem/1647)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [최소 스패닝 트리](https://www.acmicpc.net/problem/tag/49)
+
+
+
+#### 16724번 - 피리 부는 사나이(https://www.acmicpc.net/problem/16724)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+- [분리 집합](https://www.acmicpc.net/problem/tag/81)
+
+
+
+#### 2473번 - 세 용액(https://www.acmicpc.net/problem/2473)
+
+- [정렬](https://www.acmicpc.net/problem/tag/97)
+- [이분 탐색](https://www.acmicpc.net/problem/tag/12)
+- [두 포인터](https://www.acmicpc.net/problem/tag/80)
+
+
+
+#### 20040번 - 사이클 게임(https://www.acmicpc.net/problem/20040)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [분리 집합](https://www.acmicpc.net/problem/tag/81)
