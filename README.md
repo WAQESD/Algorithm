@@ -283,3 +283,25 @@
 
 - [자료 구조](https://www.acmicpc.net/problem/tag/175)
 - [분리 집합](https://www.acmicpc.net/problem/tag/81)
+
+
+
+## 2022.07.02
+
+#### 7579번 - 앱(https://www.acmicpc.net/problem/7579)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [배낭 문제](https://www.acmicpc.net/problem/tag/148)
+
+
+
+#### 2623번 - 음악프로그램(https://www.acmicpc.net/problem/2623)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [위상 정렬](https://www.acmicpc.net/problem/tag/78)
+
+
+
+#### 1806번 - 부분합(https://www.acmicpc.net/problem/1806)
+
+- [두 포인터](https://www.acmicpc.net/problem/tag/80)
