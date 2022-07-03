@@ -305,3 +305,28 @@
 #### 1806번 - 부분합(https://www.acmicpc.net/problem/1806)
 
 - [두 포인터](https://www.acmicpc.net/problem/tag/80)
+
+
+
+## 2022.07.03
+
+#### 2239번 - 스도쿠(https://www.acmicpc.net/problem/2239)
+
+#### 2580번 - 스도쿠(https://www.acmicpc.net/problem/2580)
+
+- [구현](https://www.acmicpc.net/problem/tag/102)
+- [백트래킹](https://www.acmicpc.net/problem/tag/5)
+
+
+
+#### 9252번 - LCS 2(https://www.acmicpc.net/problem/9252)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 1208번 - 부분수열의 합 2(https://www.acmicpc.net/problem/1208)
+
+- [이분 탐색](https://www.acmicpc.net/problem/tag/12)
+- [중간에서 만나기](https://www.acmicpc.net/problem/tag/46)
+
