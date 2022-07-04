@@ -330,3 +330,25 @@
 - [이분 탐색](https://www.acmicpc.net/problem/tag/12)
 - [중간에서 만나기](https://www.acmicpc.net/problem/tag/46)
 
+
+
+## 2022.07.04
+
+#### 9328번 - 열쇠(https://www.acmicpc.net/problem/9328)
+
+- [구현](https://www.acmicpc.net/problem/tag/102)
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
+
+
+
+#### 10942번 - 팰린드롬?(https://www.acmicpc.net/problem/10942)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 11049번 - 행렬 곱셈 순서(https://www.acmicpc.net/problem/11049)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
