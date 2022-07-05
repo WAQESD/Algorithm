@@ -352,3 +352,27 @@
 #### 11049번 - 행렬 곱셈 순서(https://www.acmicpc.net/problem/11049)
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+## 2022.07.05
+
+#### 2166번 - 다각형의 면적(https://www.acmicpc.net/problem/2166)
+
+- [기하학](https://www.acmicpc.net/problem/tag/100)
+- [다각형의 넓이](https://www.acmicpc.net/problem/tag/3)
+
+
+
+#### 14003번 - 가장 긴 증가하는 부분 수열 5(https://www.acmicpc.net/problem/14003)
+
+- [이분 탐색](https://www.acmicpc.net/problem/tag/12)
+- [가장 긴 증가하는 부분 수열: o(n log n)](https://www.acmicpc.net/problem/tag/43)
+
+
+
+#### 17387번 - 선분 교차2(https://www.acmicpc.net/problem/17387)
+
+- [기하학](https://www.acmicpc.net/problem/tag/100)
+- [많은 조건 분기](https://www.acmicpc.net/problem/tag/137)
+- [선분 교차 판정](https://www.acmicpc.net/problem/tag/42)
