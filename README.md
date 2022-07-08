@@ -376,3 +376,13 @@
 - [기하학](https://www.acmicpc.net/problem/tag/100)
 - [많은 조건 분기](https://www.acmicpc.net/problem/tag/137)
 - [선분 교차 판정](https://www.acmicpc.net/problem/tag/42)
+
+
+
+## 2022.07.08
+
+#### 2533번 - 사회망 서비스(SNS)(https://www.acmicpc.net/problem/2533)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [트리에서의 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/92)
