@@ -386,3 +386,21 @@
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [트리에서의 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/92)
+
+
+
+## 2022.07.09
+
+#### 2357번 - 최솟값과 최댓값(https://www.acmicpc.net/problem/2357)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [세그먼트 트리](https://www.acmicpc.net/problem/tag/65)
+
+
+
+#### 15824번 - 너 봄에는 캡사이신이 맛있단다(https://www.acmicpc.net/problem/15824)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [정렬](https://www.acmicpc.net/problem/tag/97)
+- [조합론](https://www.acmicpc.net/problem/tag/6)
+- [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
