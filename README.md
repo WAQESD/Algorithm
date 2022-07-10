@@ -404,3 +404,13 @@
 - [정렬](https://www.acmicpc.net/problem/tag/97)
 - [조합론](https://www.acmicpc.net/problem/tag/6)
 - [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
+
+
+
+## 2022.07.10
+
+#### 3648번 - 아이돌(https://www.acmicpc.net/problem/3648)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [강한 연결 요소](https://www.acmicpc.net/problem/tag/76)
+- [2-sat](https://www.acmicpc.net/problem/tag/1)
