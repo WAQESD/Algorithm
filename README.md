@@ -432,3 +432,12 @@
 - [정렬](https://www.acmicpc.net/problem/tag/97)
 - [스위핑](https://www.acmicpc.net/problem/tag/106)
 - [우선순위 큐](https://www.acmicpc.net/problem/tag/59)
+
+
+
+## 2022.07.12
+
+#### 16287번 - Parcel(https://www.acmicpc.net/problem/16287)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [중간에서 만나기](https://www.acmicpc.net/problem/tag/46)
