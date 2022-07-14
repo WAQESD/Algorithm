@@ -441,3 +441,19 @@
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [중간에서 만나기](https://www.acmicpc.net/problem/tag/46)
+
+
+
+## 2022.07.14
+
+#### 1006번 - 습격자 초라기(https://www.acmicpc.net/problem/1006)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+#### 2150번 - Strongly Connected Component(https://www.acmicpc.net/problem/2150)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [강한 연결 요소](https://www.acmicpc.net/problem/tag/76)
+
