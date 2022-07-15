@@ -457,3 +457,31 @@
 - [그래프 이론](https://www.acmicpc.net/problem/tag/7)
 - [강한 연결 요소](https://www.acmicpc.net/problem/tag/76)
 
+
+
+#### 2243번 - 사탕상자(https://www.acmicpc.net/problem/2243)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [세그먼트 트리](https://www.acmicpc.net/problem/tag/65)
+- [이분 탐색](https://www.acmicpc.net/problem/tag/12)
+
+
+
+## 2022.07.15
+
+#### 1761번 - 정점들의 거리(https://www.acmicpc.net/problem/1761)
+
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [최소 공통 조상](https://www.acmicpc.net/problem/tag/41)
+
+
+
+#### 11438번 - LCA 2(https://www.acmicpc.net/problem/11438)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [최소 공통 조상](https://www.acmicpc.net/problem/tag/41)
+- [희소 배열](https://www.acmicpc.net/problem/tag/84)
+
+
+
