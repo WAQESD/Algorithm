@@ -485,3 +485,12 @@
 
 
 
+## 2022.07.16
+
+#### 3653번 - 영화 수집(https://www.acmicpc.net/problem/3653)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [세그먼트 트리](https://www.acmicpc.net/problem/tag/65)
+
+
+

@@ -1,8 +1,8 @@
 from sys import stdin
-M = 100000
+m = 1000000
 n = int(stdin.readline())
-tree = [0] * (M*4+10)
-box = [0] * (M+1)
+tree = [0] * (m*4)
+box = [0] * (m+1)
 
 def update(node, start, end, diff, index):
 	if(index < start or index > end): return
@@ -22,12 +22,10 @@ for i in range(n):
 	arr = list(map(int, stdin.readline().split()))
 	a = arr[0]
 	if(a == 2):
-		[b, c] = arr[1:]
-		box[b] += c
-		update(1, 1, M, c, b)
+		box[arr[1]] += arr[2]
+		update(1, 1, m, arr[2], arr[1])
 	else:
-		[b] = arr[1:]
-		result = takeOut(1, 1, M, b)
+		result = takeOut(1, 1, m, arr[1])
 		print(result)
 		box[result] -= 1
-		update(1, 1, M, -1, result)
+		update(1, 1, m, -1, result)

@@ -27,7 +27,6 @@ def post(now, s):
 	s += now
 	return s
 
-	
 print(pre('A', ''))
 print(inord('A', ''))
 print(post('A', ''))
