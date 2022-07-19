@@ -501,3 +501,14 @@
 - [그래프 이론](https://www.acmicpc.net/problem/tag/7)
 - [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
 - [데이크스트라](https://www.acmicpc.net/problem/tag/22)
+
+
+
+## 2022.07.19
+
+#### 1086번 - 박성원(https://www.acmicpc.net/problem/1086)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [비트마스킹](https://www.acmicpc.net/problem/tag/14)
+- [비트필드를 이용한 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/87)
+
