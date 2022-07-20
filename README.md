@@ -512,3 +512,17 @@
 - [비트마스킹](https://www.acmicpc.net/problem/tag/14)
 - [비트필드를 이용한 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/87)
 
+
+
+## 2022.07.20
+
+#### 7578번 - 공장(https://www.acmicpc.net/problem/7578)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [세그먼트 트리](https://www.acmicpc.net/problem/tag/65)
+
+
+
+#### 2618번 - 경찰차(https://www.acmicpc.net/problem/2618)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
