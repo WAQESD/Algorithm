@@ -526,3 +526,22 @@
 #### 2618번 - 경찰차(https://www.acmicpc.net/problem/2618)
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+## 2022.07.21
+
+#### 14942번 - 개미(https://www.acmicpc.net/problem/14942)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+- [희소 배열](https://www.acmicpc.net/problem/tag/84)
+
+
+
+#### 13907번 - 세금(https://www.acmicpc.net/problem/13907)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [데이크스트라](https://www.acmicpc.net/problem/tag/22)
