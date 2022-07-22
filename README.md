@@ -545,3 +545,15 @@
 
 - [그래프 이론](https://www.acmicpc.net/problem/tag/7)
 - [데이크스트라](https://www.acmicpc.net/problem/tag/22)
+
+
+
+## 2022.07.22
+
+#### 19585번 - 전설(https://www.acmicpc.net/problem/19585)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [문자열](https://www.acmicpc.net/problem/tag/158)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [해싱](https://www.acmicpc.net/problem/tag/8)
+- [트라이](https://www.acmicpc.net/problem/tag/79)
