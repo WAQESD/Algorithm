@@ -557,3 +557,18 @@
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [해싱](https://www.acmicpc.net/problem/tag/8)
 - [트라이](https://www.acmicpc.net/problem/tag/79)
+
+
+
+## 2022.07.24
+
+#### 11400번 - 단절선(https://www.acmicpc.net/problem/11400)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [깊이 우선 탐색](https://www.acmicpc.net/problem/tag/127)
+- [단절점과 단절선](https://www.acmicpc.net/problem/tag/4)
+
+
+
+#### 11266번 - 단절점(https://www.acmicpc.net/problem/11266)
