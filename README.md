@@ -572,3 +572,26 @@
 
 
 #### 11266번 - 단절점(https://www.acmicpc.net/problem/11266)
+
+
+
+## 2022.07.25
+
+#### 1655번 - 가운데를 말해요(https://www.acmicpc.net/problem/1655)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [우선순위 큐](https://www.acmicpc.net/problem/tag/59)
+
+#### 11401번 - 이항 계수 3(https://www.acmicpc.net/problem/11401)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [정수론](https://www.acmicpc.net/problem/tag/95)
+- [조합론](https://www.acmicpc.net/problem/tag/6)
+- [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
+- [모듈로 곱셈 역원](https://www.acmicpc.net/problem/tag/164)
+- [페르마의 소정리](https://www.acmicpc.net/problem/tag/29)
+
+#### 12865번 - 평범한 배낭(https://www.acmicpc.net/problem/12865)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [배낭 문제](https://www.acmicpc.net/problem/tag/148)
