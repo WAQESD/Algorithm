@@ -595,3 +595,20 @@
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [배낭 문제](https://www.acmicpc.net/problem/tag/148)
+
+
+
+## 2022.07.26
+
+#### 10830번 - 행렬 제곱(https://www.acmicpc.net/problem/10830)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [분할 정복](https://www.acmicpc.net/problem/tag/24)
+- [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
+- [선형대수학](https://www.acmicpc.net/problem/tag/144)
+
+
+
+#### 17404번 - RGB거리 2(https://www.acmicpc.net/problem/17404)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
