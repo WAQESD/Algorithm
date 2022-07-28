@@ -612,3 +612,13 @@
 #### 17404번 - RGB거리 2(https://www.acmicpc.net/problem/17404)
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+
+
+
+## 2022.07.28
+
+#### 1949번 - 우수 마을(https://www.acmicpc.net/problem/1949)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [트리에서의 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/92)
