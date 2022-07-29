@@ -622,3 +622,24 @@
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [트리에서의 다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/92)
+
+
+
+## 2022.07.29
+
+#### 9376번 - 탈옥(https://www.acmicpc.net/problem/9376)
+
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [그래프 탐색](https://www.acmicpc.net/problem/tag/11)
+- [너비 우선 탐색](https://www.acmicpc.net/problem/tag/126)
+- [데이크스트라](https://www.acmicpc.net/problem/tag/22)
+- [0-1 너비 우선 탐색](https://www.acmicpc.net/problem/tag/176)
+
+
+
+#### 14725번 - 개미굴(https://www.acmicpc.net/problem/14725)
+
+- [자료 구조](https://www.acmicpc.net/problem/tag/175)
+- [문자열](https://www.acmicpc.net/problem/tag/158)
+- [트리](https://www.acmicpc.net/problem/tag/120)
+- [트라이](https://www.acmicpc.net/problem/tag/79)
