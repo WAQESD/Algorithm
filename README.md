@@ -643,3 +643,12 @@
 - [문자열](https://www.acmicpc.net/problem/tag/158)
 - [트리](https://www.acmicpc.net/problem/tag/120)
 - [트라이](https://www.acmicpc.net/problem/tag/79)
+
+
+
+## 2022.07.30
+
+#### 10266번 - 시계 사진들(https://www.acmicpc.net/problem/10266)
+
+- [문자열](https://www.acmicpc.net/problem/tag/158)
+- [kmp](https://www.acmicpc.net/problem/tag/40)
