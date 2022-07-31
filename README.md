@@ -652,3 +652,19 @@
 
 - [문자열](https://www.acmicpc.net/problem/tag/158)
 - [kmp](https://www.acmicpc.net/problem/tag/40)
+
+
+
+## 2022.07.31
+
+#### 8462번 - 배열의 힘(https://www.acmicpc.net/problem/8462)
+
+- [오프라인 쿼리](https://www.acmicpc.net/problem/tag/123)
+- [mo's](https://www.acmicpc.net/problem/tag/50)
+
+
+
+#### 16877번 - 핌버(https://www.acmicpc.net/problem/16877)
+
+- [게임 이론](https://www.acmicpc.net/problem/tag/140)
+- [스프라그–그런디 정리](https://www.acmicpc.net/problem/tag/70)
