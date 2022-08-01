@@ -668,3 +668,19 @@
 
 - [게임 이론](https://www.acmicpc.net/problem/tag/140)
 - [스프라그–그런디 정리](https://www.acmicpc.net/problem/tag/70)
+
+
+
+## 2022.08.01
+
+#### 1214번 - 쿨한 물건 거래(https://www.acmicpc.net/problem/1214)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [브루트포스 알고리즘](https://www.acmicpc.net/problem/tag/125)
+- [정수론](https://www.acmicpc.net/problem/tag/95)
+
+
+
+#### 2367번 - 파티(https://www.acmicpc.net/problem/2367)
+
+- [최대 유량](https://www.acmicpc.net/problem/tag/45)
