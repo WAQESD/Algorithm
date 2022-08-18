@@ -684,3 +684,12 @@
 #### 2367번 - 파티(https://www.acmicpc.net/problem/2367)
 
 - [최대 유량](https://www.acmicpc.net/problem/tag/45)
+
+
+
+## 2022.08.19
+
+#### 1786번 - 찾기(https://www.acmicpc.net/problem/1786)
+
+- [문자열](https://www.acmicpc.net/problem/tag/158)
+- [kmp](https://www.acmicpc.net/problem/tag/40)
