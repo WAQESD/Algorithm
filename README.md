@@ -693,3 +693,21 @@
 
 - [문자열](https://www.acmicpc.net/problem/tag/158)
 - [kmp](https://www.acmicpc.net/problem/tag/40)
+
+
+
+## 2022.09.27
+
+#### 1533번 - 길의 개수(https://www.acmicpc.net/problem/1533)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
+
+
+
+#### 14289번 - 본대 산책 3(https://www.acmicpc.net/problem/14289)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+- [그래프 이론](https://www.acmicpc.net/problem/tag/7)
+- [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
