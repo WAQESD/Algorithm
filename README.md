@@ -711,3 +711,12 @@
 - [수학](https://www.acmicpc.net/problem/tag/124)
 - [그래프 이론](https://www.acmicpc.net/problem/tag/7)
 - [분할 정복을 이용한 거듭제곱](https://www.acmicpc.net/problem/tag/39)
+
+
+
+## 2022.09.29
+
+#### 1708번 - 볼록 껍질(https://www.acmicpc.net/problem/1708)
+
+- [기하학](https://www.acmicpc.net/problem/tag/100)
+- [볼록 껍질](https://www.acmicpc.net/problem/tag/20)
