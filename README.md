@@ -720,3 +720,38 @@
 
 - [기하학](https://www.acmicpc.net/problem/tag/100)
 - [볼록 껍질](https://www.acmicpc.net/problem/tag/20)
+
+
+
+## 2022.12.24
+
+#### 1474번 - 밑 줄(https://www.acmicpc.net/problem/1474)
+
+- [문자열](https://www.acmicpc.net/problem/tag/158)
+- [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
+- [브루트포스 알고리즘](https://www.acmicpc.net/problem/tag/125)
+
+
+
+#### 2725번 - 보이는 점의 개수(https://www.acmicpc.net/problem/2725)
+
+- [수학](https://www.acmicpc.net/problem/tag/124)
+
+- [정수론](https://www.acmicpc.net/problem/tag/95)
+
+- [누적 합](https://www.acmicpc.net/problem/tag/139)
+
+- [유클리드 호제법](https://www.acmicpc.net/problem/tag/26)
+
+  
+
+#### 12841번 - 정보대 등산(https://www.acmicpc.net/problem/12841)
+
+
+
+## 2023.02.24
+
+#### 14527번 - 팰린드롬 개수 구하기(https://www.acmicpc.net/problem/14517)
+
+- [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
+- [포함 배제의 원리](https://www.acmicpc.net/problem/tag/38)
