@@ -18,4 +18,5 @@ for gap in range(2, len(s)):
 
 		if s[i] == s[j]: dp[i][j] += dp[i+1][j-1] + 1
 
+		dp[i][j] %= 10007
 print(dp[0][len(s)-1])
