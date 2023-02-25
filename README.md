@@ -755,3 +755,13 @@
 
 - [다이나믹 프로그래밍](https://www.acmicpc.net/problem/tag/25)
 - [포함 배제의 원리](https://www.acmicpc.net/problem/tag/38)
+
+
+
+## 2023.02.25
+
+#### 14572번 - 스터디 그룹(https://www.acmicpc.net/problem/14572)
+
+- [그리디 알고리즘](https://www.acmicpc.net/problem/tag/33)
+- [정렬](https://www.acmicpc.net/problem/tag/97)
+- [두 포인터](https://www.acmicpc.net/problem/tag/80)
